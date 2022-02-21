@@ -7,11 +7,11 @@
 body{
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
-    background: #016929;
+    background: #012c0e;
 }
 
 .contenedor{
-    background: #0f4220;
+    background: #55ee26;
     max-width: 1000px;
     margin:20px auto;
     overflow: hidden;
@@ -20,7 +20,7 @@ body{
 
 header{
 
-    background: #3b6d4a;
+    background: #29442b;
     width: 100%;
 }
 
@@ -37,11 +37,11 @@ header{
  }
 header nav a:hover{
 
-    background: #33503b;
+    background: #24412b;
 }
 
 main{
-    background: #00ff2a;
+    background: #2c5f17;
     width: 75%;
     float: left;
 
@@ -54,7 +54,7 @@ main{
 
 article h2{
 
-color:#1f7cf5;
+color:#0b5214;
 font-size: 2em;
 margin-top: 10px;
 margin-bottom: 20px;
@@ -70,7 +70,7 @@ article p{
 
 aside{
 
-    background:#265bee;
+    background:#49b95b;
     width: 25%;
     float: left;
     line-height: 25px;
@@ -93,7 +93,7 @@ aside{
 
     text-decoration: none;
     padding: 15px;
-    color: #000;
+    color: rgb(58, 4, 253);
     margin-top: 15px;
     margin-bottom: 15px;
     padding: 10px;
@@ -101,11 +101,11 @@ aside{
 
 .enlaces li a:hover{
 
-    background: #7ee883;
+    background: #1f6128;
 }
 
 footer{
-    background: #60d349;
+    background: #20a147;
     width: 100%;
     float: left;
     font-size: 1.3em;
@@ -117,7 +117,7 @@ footer{
 {
     body{
         font-size:14px;
-        background:#000;
+        background:rgb(41, 92, 0);
     }
 
     main{
@@ -133,7 +133,7 @@ footer{
 
     body{
         font-size:12px ;
-        background: #786bee;
+        background: #1e662e;
         
     }
 
